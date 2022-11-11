@@ -1,11 +1,13 @@
 About me
-Hi, I'm Li, 
+Hi I'm Li. 
+I am a biophycisit who worked as automotive engineer and now practising data science.
 
-Feel free to create a pull request to contribute to any of my repositories.
+ I’m currently working on data science project.
+- 💬 Ask me about: cooking, swimming, caligraphy
+- 🌱 Learning: python, data science
 
-- 🌱 I’m currently working on data science project.
-- 😀 I like to crochet, code, read, and draw in my free time.
-- 💬 Ask me about: cooking asian food, swimming
-- ⚡ Fun fact: 
+
+### Current Project
+- Respiratory sound classification for lung diseases
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=puenktchenli)](https://github.com/anuraghazra/github-readme-stats)
