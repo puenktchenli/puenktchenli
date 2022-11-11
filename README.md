@@ -8,4 +8,4 @@ Feel free to create a pull request to contribute to any of my repositories.
 - 💬 Ask me about: cooking asian food, swimming
 - ⚡ Fun fact: 
 
-#[![Github Stats](https://github-readme-stats.vercel.app/api?username=amxchang)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
