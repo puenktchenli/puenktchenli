@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Li</h1>
+
 <h3 align="center">  | Data Scientist | Automotive Engineer |</h3>
 
 - 🔭 Current Project: **sound classification for lung diseases**
-
 - 🌱 Currently learning **Python, SQL, Machine Learning**
 
 - 📫 How to reach me **xieli@gmx.com**
